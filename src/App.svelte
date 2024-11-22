@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  <h1>Algorimtusok feladatok</h1>
+  <h1>Algorimtusok feladatok 2</h1>
   <input type="range" bind:value={x}>
   {x}
 </main>
